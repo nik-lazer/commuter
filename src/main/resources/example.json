@@ -1,0 +1,2541 @@
+{
+  "interval_segments": [],
+  "pagination": {
+    "total": 33,
+    "limit": 100,
+    "offset": 0
+  },
+  "segments": [
+    {
+      "arrival": "2019-12-12T06:14:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6602_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6602",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6602_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T05:40:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T06:39:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6508_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6508",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6508_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T06:06:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T07:03:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6604_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6604",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6604_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T06:30:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T07:30:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6514_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6514",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6514_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T06:56:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T07:51:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "7102_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "7102",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=7102_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "last",
+          "title": "«Lastochka»"
+        },
+        "express_type": "express"
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T07:17:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 53
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T08:03:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6518_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6518",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6518_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T07:29:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T08:11:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6608_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6608",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6608_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T07:38:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T08:31:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6522_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6522",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6522_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T07:57:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T08:44:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6524_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6524",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6524_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T08:12:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T09:06:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6526_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6526",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6526_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T08:32:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T09:25:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6610_0_9602688_g20_4",
+        "title": "Lebyazh`e — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6610",
+        "short_title": "Lebyazh`e — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6610_0_9602688_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T08:50:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2100.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T09:47:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6612_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6612",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6612_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T09:14:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T10:18:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6530_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6530",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6530_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T09:46:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T10:49:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "7106_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "7106",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=7106_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "last",
+          "title": "«Lastochka»"
+        },
+        "express_type": "express"
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T10:16:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 53
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T11:15:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6616_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6616",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6616_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T10:46:00+03:00",
+      "stops": "krome: Krasny`e Zori, Strel`na, Sergievo (Volodarskaya)",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1740.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T11:59:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6536_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6536",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6536_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T11:26:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T14:42:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6548_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6548",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6548_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T14:06:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2160.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T15:12:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6624_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6624",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6624_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T14:40:00+03:00",
+      "stops": "krome: Strel`na, Sergievo (Volodarskaya)",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T16:09:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6554_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6554",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6554_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T15:36:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T17:13:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "7208_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "7208",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=7208_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "last",
+          "title": "«Lastochka»"
+        },
+        "express_type": "express"
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T16:48:00+03:00",
+      "stops": "Sosnovaya Polyana, Ligovo, Leninskij Prospekt",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 53
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1500.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T17:44:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6560_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6560",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6560_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T17:10:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 2040.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T18:18:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6566_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6566",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6566_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T17:46:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T18:39:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6568_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6568",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6568_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T18:06:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T19:03:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6570_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6570",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6570_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T18:32:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1860.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T19:27:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6630_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6630",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6630_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T18:55:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T19:47:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "7114_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "7114",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=7114_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "last",
+          "title": "«Lastochka»"
+        },
+        "express_type": "express"
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T19:16:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 53
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1860.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T20:07:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6574_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6574",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6574_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T19:34:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T20:37:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6578_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6578",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6578_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T20:06:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1860.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T21:07:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6634_0_9602688_g20_4",
+        "title": "Lebyazh`e — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6634",
+        "short_title": "Lebyazh`e — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6634_0_9602688_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T20:34:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T21:27:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6636_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6636",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6636_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T20:54:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T21:59:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6584_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6584",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6584_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T21:26:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T22:34:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "7118_0_9603138_g20_4",
+        "title": "Oranienbaum-1 — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "7118",
+        "short_title": "Oranienbaum-1 — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=7118_0_9603138_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "last",
+          "title": "«Lastochka»"
+        },
+        "express_type": "express"
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T22:01:00+03:00",
+      "stops": "vezde",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 53
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1980.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    },
+    {
+      "arrival": "2019-12-12T23:06:00+03:00",
+      "from": {
+        "code": "s9603887",
+        "title": "Novy`j Petergof",
+        "station_type": "train_station",
+        "popular_title": "",
+        "short_title": "N. Petergof",
+        "transport_type": "train",
+        "station_type_name": "vokzal",
+        "type": "station"
+      },
+      "thread": {
+        "uid": "6640_0_9602687_g20_4",
+        "title": "Kalishhe — Sankt-Peterburg (Baltijskij vokzal)",
+        "number": "6640",
+        "short_title": "Kalishhe — SPb-Balt.",
+        "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2019-12-12&uid=6640_0_9602687_g20_4",
+        "carrier": {
+          "code": 1332,
+          "contacts": "",
+          "url": "http://www.ppk-piter.ru/",
+          "logo_svg": null,
+          "title": "Severo-zapadnaya prigorodnaya passazhirskaya kompaniya",
+          "phone": "",
+          "codes": {
+            "icao": null,
+            "sirena": null,
+            "iata": null
+          },
+          "address": "197022, g. Sankt- Peterburg, Instrumental`naya ulicza, dom 3, litera P",
+          "logo": "//yastat.net/s3/rasp/media/data/company/logo/szppk_logo2.png",
+          "email": ""
+        },
+        "transport_type": "suburban",
+        "vehicle": null,
+        "transport_subtype": {
+          "color": "#FF7F44",
+          "code": "suburban",
+          "title": "Prigorodny`j poezd"
+        },
+        "express_type": null
+      },
+      "departure_platform": "",
+      "departure": "2019-12-12T22:34:00+03:00",
+      "stops": "krome: Krasny`e Zori",
+      "departure_terminal": null,
+      "to": {
+        "code": "s9603435",
+        "title": "Leninskij Prospekt",
+        "station_type": "platform",
+        "popular_title": "",
+        "short_title": "Leninskij Pr.",
+        "transport_type": "train",
+        "station_type_name": "platforma",
+        "type": "station"
+      },
+      "has_transfers": false,
+      "tickets_info": {
+        "et_marker": false,
+        "places": [
+          {
+            "currency": "RUB",
+            "price": {
+              "cents": 0,
+              "whole": 45
+            },
+            "name": null
+          }
+        ]
+      },
+      "duration": 1920.0,
+      "arrival_terminal": null,
+      "start_date": "2019-12-12",
+      "arrival_platform": ""
+    }
+  ],
+  "search": {
+    "date": "2019-12-12",
+    "to": {
+      "code": "s9603435",
+      "title": "Leninskij Prospekt",
+      "station_type": "platform",
+      "popular_title": "",
+      "short_title": "Leninskij Pr.",
+      "transport_type": "train",
+      "station_type_name": "platforma",
+      "type": "station"
+    },
+    "from": {
+      "code": "s9603887",
+      "title": "Novy`j Petergof",
+      "station_type": "train_station",
+      "popular_title": "",
+      "short_title": "N. Petergof",
+      "transport_type": "train",
+      "station_type_name": "vokzal",
+      "type": "station"
+    }
+  }
+}
