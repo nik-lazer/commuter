@@ -1,8 +1,7 @@
-package lan.commuter
+package lan.commuter.service
 
 import io.micronaut.jackson.ObjectMapperFactory
 import lan.commuter.pojo.SearchResponse
-import lan.commuter.service.SearchService
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotNull
 import org.junit.jupiter.api.Test

@@ -1,24 +1,33 @@
-package commuter
+package lan.commuter
 
 import io.micronaut.configuration.picocli.PicocliRunner
-import io.micronaut.context.ApplicationContext
+import lan.commuter.service.PresentationService
+import lan.commuter.service.ScheduleService
 
-import picocli.CommandLine
 import picocli.CommandLine.Command
 import picocli.CommandLine.Option
-import picocli.CommandLine.Parameters
+import java.time.LocalDate
+import java.time.Month
+import javax.inject.Inject
 
-@Command(name = "commuter", description = ["..."],
+@Command(name = "", description = ["..."],
         mixinStandardHelpOptions = true)
 class CommuterCommand : Runnable {
 
     @Option(names = ["-v", "--verbose"], description = ["..."])
     private var verbose : Boolean = false
+    @Inject
+    private lateinit var scheduleService: ScheduleService
+    @Inject
+    private lateinit var presentationService: PresentationService
 
     override fun run() {
-        // business logic here
+        val date = LocalDate.of(2019, Month.DECEMBER, 25)
+        val pairs = scheduleService.fetchSchedule(date)
+        val text = presentationService.view(pairs)
+        presentationService.save("output.html", text)
         if (verbose) {
-            println("Hi!")
+            println(text)
         }
     }
 
