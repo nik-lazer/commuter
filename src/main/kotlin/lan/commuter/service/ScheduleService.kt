@@ -8,11 +8,11 @@ import javax.inject.Singleton
 import kotlin.collections.ArrayList
 
 @Singleton
-class ScheduleService(val searchService: SearchService) {
+class ScheduleService(private val searchService: SearchService) {
 
-    fun fetchSchedule(date: LocalDate): List<Pair<ThreadOutput?, ThreadOutput?>> {
-        val startPointResponse = searchService.load(Station.START_POINT, Station.SWITCH_POINT, date)
-        val finalPointResponse = searchService.load(Station.SWITCH_POINT, Station.FINAL_POINT, date)
+    fun fetchSchedule(date: LocalDate, startPoint: Station, finalPoint: Station): List<Pair<ThreadOutput?, ThreadOutput?>> {
+        val startPointResponse = searchService.load(startPoint, Station.SWITCH_POINT, date)
+        val finalPointResponse = searchService.load(Station.SWITCH_POINT, finalPoint, date)
         val startPointThreads = searchService.map(startPointResponse)
         val finalPointThreads = searchService.map(finalPointResponse)
         return connectThreads(startPointThreads, finalPointThreads)
@@ -42,7 +42,7 @@ class ScheduleService(val searchService: SearchService) {
         return result
     }
 
-    fun isBefore(thread: ThreadOutput?, threadToCompare: ThreadOutput?):Boolean {
+    private fun isBefore(thread: ThreadOutput?, threadToCompare: ThreadOutput?):Boolean {
         if (thread == null && threadToCompare != null) {
             return false
         }
