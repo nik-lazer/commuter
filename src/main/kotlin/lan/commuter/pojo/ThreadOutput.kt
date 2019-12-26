@@ -9,5 +9,6 @@ data class ThreadOutput(
         val duration: Int,
         val title: String,
         val stops: String,
-        val price: Int
+        val price: Int,
+        val type: String?
 )

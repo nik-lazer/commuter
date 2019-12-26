@@ -31,6 +31,7 @@ data class TicketsInfo(
 data class Thread(
         val title: String,
         val number: String,
+        @param:JsonProperty("short_title") val shortTitle: String,
         @param:JsonProperty("express_type") val expressType: String?
 )
 

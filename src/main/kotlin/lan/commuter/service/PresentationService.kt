@@ -12,14 +12,14 @@ class PresentationService {
         var body = ""
         pairs.forEach {
             val startNumber = it.first?.number ?: ""
-            val startTitle = it.first?.title ?: ""
+            val startTitle = (it.first?.title ?: "") + addType(it.first)
             val startDeparture = it.first?.departure ?: ""
             val startDuration = it.first?.duration ?: ""
             val startArrival = it.first?.arrival ?: ""
             val startComments = it.first?.stops ?: ""
 
             val finalNumber = it.second?.number ?: ""
-            val finalTitle = it.second?.title ?: ""
+            val finalTitle = (it.second?.title ?: "") + addType(it.second)
             val finalDeparture = it.second?.departure ?: ""
             val finalDuration = it.second?.duration ?: ""
             val finalArrival = it.second?.arrival ?: ""
@@ -47,5 +47,12 @@ class PresentationService {
 
     fun save(fileName: String, content: String) {
         File(fileName).writeText(content)
+    }
+
+    private fun addType(threadOutput: ThreadOutput?): String {
+        return if (threadOutput?.type != null)
+            " (${threadOutput.type})"
+        else
+            ""
     }
 }

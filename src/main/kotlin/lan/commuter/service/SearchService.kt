@@ -56,9 +56,10 @@ class SearchService(
                 departureTime,
                 arrivalTime,
                 it.duration/60,
-                it.thread.title,
+                it.thread.shortTitle,
                 it.stops,
-                price
+                price,
+                it.thread.expressType
         )
 
     }
